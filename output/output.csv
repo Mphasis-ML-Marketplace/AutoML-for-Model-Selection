@@ -1,0 +1,16 @@
+,Model,Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC,TT (Sec)
+0,Ada Boost Classifier,0.96,0.99,0.98,0.95,0.97,0.91,0.91,0.1
+1,Extra Trees Classifier,0.96,0.99,0.98,0.96,0.97,0.92,0.92,0.14
+2,Extreme Gradient Boosting,0.96,0.99,0.97,0.96,0.97,0.91,0.91,0.06
+3,Light Gradient Boosting Machine,0.96,0.99,0.97,0.97,0.97,0.91,0.91,0.06
+4,CatBoost Classifier,0.96,0.99,0.97,0.97,0.97,0.92,0.92,4.22
+5,Random Forest Classifier,0.95,0.98,0.96,0.95,0.96,0.89,0.89,0.11
+6,Quadratic Discriminant Analysis,0.95,0.99,0.95,0.97,0.96,0.89,0.89,0.01
+7,Gradient Boosting Classifier,0.95,0.99,0.96,0.96,0.96,0.89,0.89,0.22
+8,Linear Discriminant Analysis,0.95,0.99,0.99,0.94,0.96,0.9,0.9,0.0
+9,Logistic Regression,0.94,0.99,0.96,0.94,0.95,0.86,0.87,0.03
+10,Naive Bayes,0.94,0.99,0.96,0.94,0.95,0.87,0.87,0.0
+11,Ridge Classifier,0.94,0.0,0.98,0.93,0.95,0.87,0.87,0.01
+12,K Neighbors Classifier,0.93,0.96,0.96,0.93,0.94,0.84,0.84,0.0
+13,Decision Tree Classifier,0.92,0.91,0.95,0.93,0.94,0.83,0.83,0.0
+14,SVM - Linear Kernel,0.9,0.0,0.95,0.91,0.93,0.79,0.8,0.0
