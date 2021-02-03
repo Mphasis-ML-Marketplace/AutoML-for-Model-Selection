@@ -1,4 +1,4 @@
-# PACE-ML: Feature Selection
+# PACE-ML: AutoML
 
 ## Product overview
 
