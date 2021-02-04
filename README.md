@@ -1,8 +1,8 @@
-# PACE-ML: AutoML
+# AutoML for Model Selection
 
 ## Product overview
 
-PACE-ML Auto ML will run several machine learning models on the user provided data. The user can provide the specific models and the evaluation metric to use in a separate config file. This will simplify the task of model building for a data scientist where in the user will only have to specify select few parameter to find the best model for the data set
+This AutoML solution runs several classification and regression machine learning models on the input data. It will identify the best performing model based on the user specified evaluation metric. This will simplify the task of model building for a data scientist where the user will have to specify few selected parameters to find the best model for the data set.
 
 ## Product Highlight
 
